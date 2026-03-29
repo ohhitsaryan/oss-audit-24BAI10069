@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
 
-PACKAGE="git" # e.g. httpd, mysql, vlc, firefox, git
+PACKAGE="firefox"
 
 # Check if package is installed
 if rpm -q "$PACKAGE" &>/dev/null; then
