@@ -8,7 +8,7 @@ Welcome to my Open Source Audit repository! This project is a collection of Bash
 
 ---
 
-## 🛠️ Dependencies
+## Dependencies
 
 To run these scripts, you'll need a standard Linux environment. The following utilities should be available on your system:
 * **Bash shell** (usually the default on Linux)
@@ -18,7 +18,7 @@ To run these scripts, you'll need a standard Linux environment. The following ut
 
 ---
 
-## 📜 Script Descriptions
+## Script Descriptions
 
 Here is a quick breakdown of what each script does:
 
@@ -39,7 +39,7 @@ An interactive script that asks the user three quick questions about their open-
 
 ---
 
-## 🚀 How to Run the Scripts
+## How to Run the Scripts
 
 Follow these steps to get the scripts running on your local Linux machine:
 
