@@ -3,8 +3,8 @@
 # Author: [Your Name] | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Your Name" # Fill in your name
-SOFTWARE_CHOICE="Git"    # Fill in your chosen software
+STUDENT_NAME="Aryan Sharma" 
+SOFTWARE_CHOICE="Firefox"   
 
 # --- System info ---
 KERNEL=$(uname -r)
